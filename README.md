@@ -194,7 +194,7 @@ Examples:
 
 ## 🎨 Credits
 
-- **Developed by**: Development Team
+- **Developed by**: Diôgo Camilo
 - **Inspiration**: Fibonacci sequence in nature
 - **Technology**: Three.js, JavaScript ES6+
 - **Design**: Based on golden ratio
